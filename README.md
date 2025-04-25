@@ -1,4 +1,4 @@
-<h3 align="left">"Hi 👋 I'm Prem — an AI/ML & Data Science engineer passionate about LLMs, neural networks, and real-world impact through collaboration."</h3>
+<h2 align="left">"Hi 👋 I'm Prem — an AI/ML & Data Science engineer passionate about LLMs, neural networks, and real-world impact through collaboration."</h2>
 
 ###
 
