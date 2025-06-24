@@ -1,4 +1,6 @@
-<h2 align="left">"Hi 👋 I'm Prem — an AI/ML & Data Science engineer passionate about LLMs, neural networks, and real-world impact through collaboration."</h2>
+<h3 align="left">"Hi 👋 I'm Prem — a tech enthusiast always exploring, pushing boundaries, and uncovering elegance in every line of code. My
+curiosity drives me to build smarter, more efficient solutions — especially with AI and emerging technologies —
+where I enjoy experimenting, learning, and crafting tools that solve real-world problems meaningfully."</h3>
 
 ###
 
